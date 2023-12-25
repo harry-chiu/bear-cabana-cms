@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bear-cabana-cms/static/css/main.7bd3acfb.css",
+    "main.js": "/bear-cabana-cms/static/js/main.9166af6a.js",
+    "index.html": "/bear-cabana-cms/index.html",
+    "main.7bd3acfb.css.map": "/bear-cabana-cms/static/css/main.7bd3acfb.css.map",
+    "main.9166af6a.js.map": "/bear-cabana-cms/static/js/main.9166af6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd3acfb.css",
+    "static/js/main.9166af6a.js"
+  ]
+}
