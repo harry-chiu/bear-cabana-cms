@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bear-cabana-cms/static/css/main.7bd3acfb.css",
-    "main.js": "/bear-cabana-cms/static/js/main.ff4d95fe.js",
+    "main.js": "/bear-cabana-cms/static/js/main.585d5c2a.js",
     "index.html": "/bear-cabana-cms/index.html",
     "main.7bd3acfb.css.map": "/bear-cabana-cms/static/css/main.7bd3acfb.css.map",
-    "main.ff4d95fe.js.map": "/bear-cabana-cms/static/js/main.ff4d95fe.js.map"
+    "main.585d5c2a.js.map": "/bear-cabana-cms/static/js/main.585d5c2a.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd3acfb.css",
-    "static/js/main.ff4d95fe.js"
+    "static/js/main.585d5c2a.js"
   ]
 }
